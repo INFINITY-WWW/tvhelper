@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "1.79",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.79.apk",
-  "notes": "1.79 更新说明：\n1. 「关于本应用」版本号改为动态读取，不再写死\n2. 修复关于页一直显示 v1.72 的问题"
+  "versionCode": 81,
+  "versionName": "1.80",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.80.apk",
+  "notes": "1.80 更新说明：\n1. 关于页介绍按全部功能更新\n2. 通道体检加 170 秒超时：电视无响应时自动结束并提示，按钮不再卡在「体检中」\n3. 检查更新加 25 秒超时：网络不通时明确提示，不再没结果\n4. 体检完成后按钮自动恢复为「重新体检」"
 }
