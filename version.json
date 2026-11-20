@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.54.apk",
-  "notes": "1.54 更新说明：\n1. 应用商店应用改用原生图标（自动下载提取并缓存）\n2. 看剧AI 改为官方直链\n3. 移除千寻直播"
+  "versionCode": 56,
+  "versionName": "1.55",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.55.apk",
+  "notes": "1.55 更新说明：\n1. 看剧AI 与搜剧AI 保持一致（名称/简介/版本格式）"
 }
