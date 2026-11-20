@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "1.71",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.71.apk",
-  "notes": "1.71 更新说明：\n1. 移除夸克网盘、VidHub（电视应用商店可直接下载）\n2. 修复应用管家图标不显示（图标文件名与 id 不一致）"
+  "versionCode": 73,
+  "versionName": "1.72",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.72.apk",
+  "notes": "1.72 更新说明：\n1. 修复商店分类「工具」被挤成两行（改为可横向滚动 + 文字强制单行）\n2. 备份页按钮文案缩短，避免窄屏拥挤"
 }
