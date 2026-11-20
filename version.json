@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "1.68",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.68.apk",
-  "notes": "1.68 更新说明：\n1. 遥控器底部三个键上提，不再贴边\n2. 全部按键换成矢量线框图标（电源/音量/静音/主页/返回/菜单）\n3. 按钮加大到 72dp，方向点改为小圆点，更精致"
+  "versionCode": 70,
+  "versionName": "1.69",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.69.apk",
+  "notes": "1.69 更新说明：\n1. 遥控器四个方向点移到圆环正中间（上下左右居中），不再压到 OK 圈"
 }
