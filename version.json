@@ -1,6 +1,6 @@
-{
-  "versionCode": 73,
-  "versionName": "1.72",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.72.apk",
-  "notes": "1.72 更新说明：\n1. 修复商店分类「工具」被挤成两行（改为可横向滚动 + 文字强制单行）\n2. 备份页按钮文案缩短，避免窄屏拥挤"
+﻿{
+  "versionCode": 74,
+  "versionName": "1.73",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.73.apk",
+  "notes": "1.73 更新说明（P2）：\n1. 新增「电视信息」：存储/内存/温度/分辨率/系统\n2. 新增「文件管理」：浏览电视文件、下载到手机、上传到电视、删除\n3. 新增深色模式（设置里切换）\n4. 新增骨架屏加载占位\n5. 拆出 DeviceInfo / FileBrowser / Theme / TaskRunner / Skeleton 独立类\n6. 加入 6 个单元测试（已全部通过）"
 }
