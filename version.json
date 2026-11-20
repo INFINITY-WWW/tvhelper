@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "1.75",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.75.apk",
-  "notes": "1.75 更新说明：\n1. 连接后的功能介绍更新为 6 条，覆盖全部功能\n2. 取消深色模式\n3. 文件管理改用 /storage/emulated/0，修复目录内容不显示"
+  "versionCode": 77,
+  "versionName": "1.76",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.76.apk",
+  "notes": "1.76 更新说明：\n1. 文件管理每行加大（图标 22sp、文字 15sp、行高 58dp），不易误触\n2. 文件管理里按手机返回键先返回上级目录，不再直接退出"
 }
