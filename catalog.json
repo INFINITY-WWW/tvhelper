@@ -4,7 +4,7 @@
   "apps": [
     {
       "id": "sojuai-tv",
-      "name": "搜剧TV",
+      "name": "搜剧AI",
       "pkg": "com.baipiaozhe.tv",
       "desc": "AI 影视搜索，聚合全网影视资源，TV 大屏版",
       "tvApkUrl": "https://eliteres.fanruan.com/office/2026/10/06/7b21c193-bab5-4a3d-b56d-97a42b07d02a.apk",
