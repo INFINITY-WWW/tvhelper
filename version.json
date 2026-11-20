@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "1.76",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.76.apk",
-  "notes": "1.76 更新说明：\n1. 文件管理每行加大（图标 22sp、文字 15sp、行高 58dp），不易误触\n2. 文件管理里按手机返回键先返回上级目录，不再直接退出"
+  "versionCode": 78,
+  "versionName": "1.77",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.77.apk",
+  "notes": "1.77 更新说明：\n1. 文件管理整行（含分割线）可点，不再只有文字能点\n2. 文件行改为小米式布局：大图标 + 标题 + 日期/大小副标题 + 右箭头\n3. 文件图标 26sp，标题 16sp 加粗"
 }
