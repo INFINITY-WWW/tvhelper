@@ -15,9 +15,9 @@
     },
     {
       "id": "kanjuai-tv",
-      "name": "看剧AI TV",
+      "name": "看剧AI",
       "pkg": "com.kanjuai.tv",
-      "desc": "AI 智能搜索影视，短剧与热门剧集，TV 版",
+      "desc": "AI 影视搜索，聚合全网影视资源，TV 大屏版",
       "tvApkUrl": "https://eliteres.fanruan.com/office/2026/10/06/86a5883d-eeae-4d2f-bc52-0fd6831e04b2.apk?response-content-disposition=attachment;filename*=UTF-8%27%271791297133627_KanjuAITV-0.2.13-vc24.apk",
       "officialPage": "https://kanju.ai/",
       "version": "0.2.13",
