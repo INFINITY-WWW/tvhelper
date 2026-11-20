@@ -1,66 +1,114 @@
-﻿{
-    "v":  4,
-    "note":  "云端应用目录：上传到 GitHub 后，把 raw 地址填到 FeatureActivity.CATALOG_URL，以后加应用不用发新版。",
-    "apps":  [
-                 {
-                     "id":  "sojuai-tv",
-                     "name":  "搜剧AI",
-                     "pkg":  "com.baipiaozhe.tv",
-                     "desc":  "AI 影视搜索，聚合全网影视资源，TV 大屏版",
-                     "tvApkUrl":  "https://eliteres.fanruan.com/office/2026/10/06/7b21c193-bab5-4a3d-b56d-97a42b07d02a.apk",
-                     "officialPage":  "https://soju7.com/download",
-                     "version":  "0.2.13",
-                     "versionCode":  24,
-                     "iconText":  "搜",
-                     "category":  "影视"
-                 },
-                 {
-                     "id":  "kanjuai-tv",
-                     "name":  "看剧AI",
-                     "pkg":  "com.kanjuai.tv",
-                     "desc":  "AI 影视搜索，聚合全网影视资源，TV 大屏版",
-                     "tvApkUrl":  "https://eliteres.fanruan.com/office/2026/10/06/86a5883d-eeae-4d2f-bc52-0fd6831e04b2.apk?response-content-disposition=attachment;filename*=UTF-8%27%271791297133627_KanjuAITV-0.2.13-vc24.apk",
-                     "officialPage":  "https://kanju.ai/",
-                     "version":  "0.2.13",
-                     "versionCode":  24,
-                     "iconText":  "看",
-                     "category":  "影视"
-                 },
-                 {
-                     "id":  "cjzb",
-                     "name":  "超级直播",
-                     "pkg":  "com.hd.zhibo",
-                     "desc":  "电视直播盒子，央视/卫视/体育/地方频道，支持回看与自定义源",
-                     "tvApkUrl":  "https://github.com/mycjzb/com.hd.zhibo/releases/download/MYCJZB/CJZB-v3.5.3-383.Apk",
-                     "officialPage":  "https://github.com/mycjzb/com.hd.zhibo/releases",
-                     "version":  "3.5.3",
-                     "versionCode":  383,
-                     "iconText":  "超",
-                     "category":  "直播"
-                 },
-                 {
-                     "id":  "aliiptv",
-                     "name":  "阿里TV",
-                     "pkg":  "com.tencent.wemeet.tv",
-                     "desc":  "超级直播的小米电视适配版，安装后不会被小米拦截",
-                     "tvApkUrl":  "https://github.com/mycjzb/com.hd.zhibo/releases/download/MYCJZB/ALIIPTV-ali-v1.3.0-30.Apk",
-                     "officialPage":  "https://github.com/mycjzb/com.hd.zhibo/releases",
-                     "version":  "1.3.0",
-                     "versionCode":  30,
-                     "iconText":  "阿",
-                     "category":  "直播"
-                 },
-                 {
-                     "id":  "ysc",
-                     "name":  "影视仓",
-                     "pkg":  "com.huawei.himovceie",
-                     "desc":  "影视点播聚合，配合直播源/自定义接口使用，64 位版",
-                     "tvApkUrl":  "https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93/%E5%BD%B1%E8%A7%86%E4%BB%93-TV6.2.9-64%E4%BD%8D.apk",
-                     "officialPage":  "https://github.com/youhunwl/TVAPP/tree/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93",
-                     "version":  "6.2.9",
-                     "versionCode":  195,
-                     "iconText":  "影",
-                     "category":  "影视"
-                 }
-             ]
+{
+  "v": 5,
+  "note": "应用商店目录。tvApkUrl 填官方直链（.apk），留空则按钮变为「打开官网」；pkg 用于判断已安装/升级；versionCode 为官网最新版本号。",
+  "apps": [
+    {
+      "id": "sojuai-tv",
+      "name": "搜剧AI",
+      "pkg": "com.baipiaozhe.tv",
+      "desc": "AI 影视搜索，聚合全网影视资源，TV 大屏版",
+      "tvApkUrl": "https://eliteres.fanruan.com/office/2026/10/06/7b21c193-bab5-4a3d-b56d-97a42b07d02a.apk",
+      "officialPage": "https://soju7.com/download",
+      "version": "0.2.13",
+      "versionCode": 24,
+      "iconText": "搜",
+      "category": "影视"
+    },
+    {
+      "id": "kanjuai-tv",
+      "name": "看剧AI",
+      "pkg": "com.kanjuai.tv",
+      "desc": "AI 影视搜索，聚合全网影视资源，TV 大屏版",
+      "tvApkUrl": "https://eliteres.fanruan.com/office/2026/10/06/86a5883d-eeae-4d2f-bc52-0fd6831e04b2.apk?response-content-disposition=attachment;filename*=UTF-8%27%271791297133627_KanjuAITV-0.2.13-vc24.apk",
+      "officialPage": "https://kanju.ai/",
+      "version": "0.2.13",
+      "versionCode": 24,
+      "iconText": "看",
+      "category": "影视"
+    },
+    {
+      "id": "cjzb",
+      "name": "超级直播",
+      "pkg": "com.hd.zhibo",
+      "desc": "电视直播盒子，央视/卫视/体育/地方频道，支持回看与自定义源",
+      "tvApkUrl": "https://github.com/mycjzb/com.hd.zhibo/releases/download/MYCJZB/CJZB-v3.5.3-383.Apk",
+      "officialPage": "https://github.com/mycjzb/com.hd.zhibo/releases",
+      "version": "3.5.3",
+      "versionCode": 383,
+      "iconText": "超",
+      "category": "直播"
+    },
+    {
+      "id": "aliiptv",
+      "name": "阿里TV",
+      "pkg": "com.tencent.wemeet.tv",
+      "desc": "超级直播的小米电视适配版，安装后不会被小米拦截",
+      "tvApkUrl": "https://github.com/mycjzb/com.hd.zhibo/releases/download/MYCJZB/ALIIPTV-ali-v1.3.0-30.Apk",
+      "officialPage": "https://github.com/mycjzb/com.hd.zhibo/releases",
+      "version": "1.3.0",
+      "versionCode": 30,
+      "iconText": "阿",
+      "category": "直播"
+    },
+    {
+      "id": "ysc",
+      "name": "影视仓",
+      "pkg": "com.huawei.himovceie",
+      "desc": "影视点播聚合，配合直播源/自定义接口使用，64 位版",
+      "tvApkUrl": "https://raw.githubusercontent.com/youhunwl/TVAPP/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93/%E5%BD%B1%E8%A7%86%E4%BB%93-TV6.2.9-64%E4%BD%8D.apk",
+      "officialPage": "https://github.com/youhunwl/TVAPP/tree/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93",
+      "version": "6.2.9",
+      "versionCode": 195,
+      "iconText": "影",
+      "category": "影视"
+    },
+    {
+      "id": "quark-tv",
+      "name": "夸克网盘",
+      "pkg": "",
+      "desc": "夸克网盘 TV 端，登录同步手机资源，支持 4K 极清播放",
+      "tvApkUrl": "",
+      "officialPage": "https://pan.quark.cn/",
+      "version": "",
+      "versionCode": 0,
+      "iconText": "夸",
+      "category": "网盘"
+    },
+    {
+      "id": "vidhub",
+      "name": "VidHub",
+      "pkg": "com.oumi.utility.media.hub",
+      "desc": "全能媒体播放器，支持网盘 / WebDAV / SMB / Emby / Jellyfin / Plex",
+      "tvApkUrl": "https://download.dacall.ai/tv/vidhub-TV-universal-release.apk",
+      "officialPage": "https://okaapps.com/product/1659622164",
+      "version": "3.0.4",
+      "versionCode": 327,
+      "iconText": "V",
+      "category": "播放"
+    },
+    {
+      "id": "railux",
+      "name": "Railux",
+      "pkg": "com.railux.tv",
+      "desc": "AI 智能媒体播放器，自动刮削海报墙，支持 4K / HDR 播放",
+      "tvApkUrl": "https://railux.top/downloads/railux-android-tv.apk",
+      "officialPage": "https://railux.top/",
+      "version": "1.2",
+      "versionCode": 10,
+      "iconText": "R",
+      "category": "播放"
+    },
+    {
+      "id": "appmgr-tv",
+      "name": "应用管家",
+      "pkg": "",
+      "desc": "电视应用与文件管理，支持应用提取、卸载、局域网传输",
+      "tvApkUrl": "",
+      "officialPage": "https://share.feijipan.com/s/ZHVcIJIu",
+      "version": "",
+      "versionCode": 0,
+      "iconText": "管",
+      "category": "工具"
+    }
+  ]
 }
