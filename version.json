@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.55",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.55.apk",
-  "notes": "1.55 更新说明：\n1. 看剧AI 与搜剧AI 保持一致（名称/简介/版本格式）"
+  "versionCode": 57,
+  "versionName": "1.56",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.56.apk",
+  "notes": "1.56 更新说明：\n1. 首页自动感知云端新版本，点提示直接更新\n2. 修复商店安装无进度、按钮卡在安装中\n3. 影视仓也能显示原生图标"
 }
