@@ -1,5 +1,5 @@
 {
-  "v": 3,
+  "v": 4,
   "note": "云端应用目录：上传到 GitHub 后，把 raw 地址填到 FeatureActivity.CATALOG_URL，以后加应用不用发新版。",
   "apps": [
     {
@@ -18,10 +18,10 @@
       "name": "看剧AI TV",
       "pkg": "com.kanjuai.tv",
       "desc": "AI 智能搜索影视，短剧与热门剧集，TV 版",
-      "tvApkUrl": "",
+      "tvApkUrl": "https://eliteres.fanruan.com/office/2026/10/06/86a5883d-eeae-4d2f-bc52-0fd6831e04b2.apk?response-content-disposition=attachment;filename*=UTF-8%27%271791297133627_KanjuAITV-0.2.13-vc24.apk",
       "officialPage": "https://kanju.ai/",
-      "version": "0.2.1",
-      "versionCode": 0,
+      "version": "0.2.13",
+      "versionCode": 24,
       "iconText": "看"
     },
     {
@@ -56,17 +56,6 @@
       "version": "6.2.9",
       "versionCode": 195,
       "iconText": "影"
-    },
-    {
-      "id": "qianxun-tv",
-      "name": "千寻直播",
-      "pkg": "",
-      "desc": "免费电视直播，支持旧电视系统，央视/卫视/体育频道齐全",
-      "tvApkUrl": "",
-      "officialPage": "https://qianxuntvdown.github.io/",
-      "version": "1.0.9",
-      "versionCode": 0,
-      "iconText": "千"
     }
   ]
 }
