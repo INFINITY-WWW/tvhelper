@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.52.apk",
-  "notes": "1.52 更新说明：\n1. 应用商店新增超级直播、阿里TV、影视仓、千寻直播\n2. 商店支持云端目录（catalog.json）\n3. 降体积到约 0.15MB，支持 Android 5.0+\n4. 新增卸载前备份"
+  "versionCode": 54,
+  "versionName": "1.53",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.53.apk",
+  "notes": "1.53 更新说明：\n1. 应用商店：搜剧TV 更正为 搜剧AI\n2. 云端目录 catalog.json 与内置目录保持一致"
 }
