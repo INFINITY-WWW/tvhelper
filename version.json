@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "1.78",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.78.apk",
-  "notes": "1.78 更新说明：\n1. 「返回上级目录」按钮加大为整行胶囊按钮，更好点"
+  "versionCode": 80,
+  "versionName": "1.79",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.79.apk",
+  "notes": "1.79 更新说明：\n1. 「关于本应用」版本号改为动态读取，不再写死\n2. 修复关于页一直显示 v1.72 的问题"
 }
