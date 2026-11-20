@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.63",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.63.apk",
-  "notes": "1.63 更新说明：\n1. 设置页改为列表行 + 右侧操作按钮，和商店/管理页风格统一\n2. 「清理图标缓存」「清空备份」不再是大色块"
+  "versionCode": 65,
+  "versionName": "1.64",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.64.apk",
+  "notes": "1.64 更新说明：\n1. 虚拟遥控器页自动隐藏日志面板，遥控区更长\n2. 方向键加大到 88x80，其他按键加高到 68\n3. 网页预览版新增本地桥接服务，能真实连电视操作（需在电脑运行 server.ps1）"
 }
