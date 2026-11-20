@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "1.69",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.69.apk",
-  "notes": "1.69 更新说明：\n1. 遥控器四个方向点移到圆环正中间（上下左右居中），不再压到 OK 圈"
+  "versionCode": 71,
+  "versionName": "1.70",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.70.apk",
+  "notes": "1.70 更新说明：\n1. 应用商店新增：夸克网盘、VidHub、Railux、应用管家\n2. VidHub / Railux 使用官网 TV 直链\n3. 商店分类扩到：影视/直播/播放/网盘/工具\n4. 新应用图标全部内置"
 }
