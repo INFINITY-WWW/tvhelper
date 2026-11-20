@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.57.apk",
-  "notes": "1.57 更新说明：\n1. 应用商店 5 个应用全部内置原生图标（含影视仓），不再依赖下载\n2. 图标秒出，离线也能显示"
+  "versionCode": 59,
+  "versionName": "1.58",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.58.apk",
+  "notes": "1.58 更新说明：\n1. 更新检查改为多镜像自动切换（raw → jsDelivr → ghproxy），国内更稳\n2. 版本检查失败会显示原因\n3. 应用商店目录同样支持镜像"
 }
