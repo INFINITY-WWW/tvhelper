@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.56.apk",
-  "notes": "1.56 更新说明：\n1. 首页自动感知云端新版本，点提示直接更新\n2. 修复商店安装无进度、按钮卡在安装中\n3. 影视仓也能显示原生图标"
+  "versionCode": 58,
+  "versionName": "1.57",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.57.apk",
+  "notes": "1.57 更新说明：\n1. 应用商店 5 个应用全部内置原生图标（含影视仓），不再依赖下载\n2. 图标秒出，离线也能显示"
 }
