@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.66",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.66.apk",
-  "notes": "1.66 更新说明：\n1. 修复电源键显示成方框（改用矢量图标）\n2. 所有按钮按下增加手机振动反馈"
+  "versionCode": 68,
+  "versionName": "1.67",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.67.apk",
+  "notes": "1.67 更新说明：\n1. 遥控器方向点离中心更近，按键更顺手\n2. 遥控器新增「截图」：一键把电视画面保存到手机相册\n3. 网页版同步新增截图按钮"
 }
