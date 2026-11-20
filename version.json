@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.61",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.61.apk",
-  "notes": "1.61 更新说明：\n1. 右上角版本号直接提示新版本（变成「v1.61 可更新 ›」，蓝色可点）\n2. 回到前台会自动再检查一次"
+  "versionCode": 63,
+  "versionName": "1.62",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.62.apk",
+  "notes": "1.62 更新说明：\n1. 修复虚拟遥控器方向键错乱（布局参数被复用）\n2. 设置页按钮改为统一的填充式风格\n3. 遥控器按键重新排布，电源/静音/音量/主页返回菜单样式统一"
 }
