@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "1.74",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.74.apk",
-  "notes": "1.74 更新说明：\n1. 修复「允许」提示缺少右引号\n2. 连接中断重连日志加节流，不再刷屏"
+  "versionCode": 76,
+  "versionName": "1.75",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.75.apk",
+  "notes": "1.75 更新说明：\n1. 连接后的功能介绍更新为 6 条，覆盖全部功能\n2. 取消深色模式\n3. 文件管理改用 /storage/emulated/0，修复目录内容不显示"
 }
