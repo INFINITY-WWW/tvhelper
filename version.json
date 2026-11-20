@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "1.65",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.65.apk",
-  "notes": "1.65 更新说明：\n1. 虚拟遥控器改为全屏大盘布局（仿常见电视助手，浅色配色）\n2. 顶部圆形按键：电源/音量-/音量+/静音\n3. 中间大圆盘：方向点 + OK\n4. 底部圆形按键：主页/返回/菜单"
+  "versionCode": 67,
+  "versionName": "1.66",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.66.apk",
+  "notes": "1.66 更新说明：\n1. 修复电源键显示成方框（改用矢量图标）\n2. 所有按钮按下增加手机振动反馈"
 }
