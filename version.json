@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "1.81",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.81.apk",
-  "notes": "1.81 更新说明：\n1. 首页「设置」副标题去掉已取消的「主题」，改为「缓存 · 备份 · 更新」"
+  "versionCode": 100,
+  "versionName": "2.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.0.0.apk",
+  "notes": "2.0.0 正式版（采用语义化版本 SemVer）：\n新功能：\n· 电视信息：存储 / 内存 / 温度 / 分辨率\n· 文件管理：浏览、上传、下载电视文件\n· 虚拟遥控器：全屏大盘 + 一键截图\n· 应用商店：分类、搜索、详情\n修复：\n· 通道体检超时不再卡住\n· 检查更新 25 秒超时兜底\n· 关于页版本号动态读取"
 }
