@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.60",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.60.apk",
-  "notes": "1.60 更新说明（P0+P1）：\n1. 按钮全部加按压涟漪反馈\n2. 下载增加 APK 完整性校验\n3. 新增虚拟遥控器（方向/确认/返回/主页/音量/电源）\n4. 新增备份恢复（可恢复到电视、导出到下载目录）\n5. 应用商店支持分类、搜索、应用详情\n6. 新增安装队列（串行，避免抢连接）\n7. 新增设置页"
+  "versionCode": 62,
+  "versionName": "1.61",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-1.61.apk",
+  "notes": "1.61 更新说明：\n1. 右上角版本号直接提示新版本（变成「v1.61 可更新 ›」，蓝色可点）\n2. 回到前台会自动再检查一次"
 }
