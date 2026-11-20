@@ -1,5 +1,5 @@
 {
-  "v": 5,
+  "v": 6,
   "note": "应用商店目录。tvApkUrl 填官方直链（.apk），留空则按钮变为「打开官网」；pkg 用于判断已安装/升级；versionCode 为官网最新版本号。",
   "apps": [
     {
@@ -61,30 +61,6 @@
       "versionCode": 195,
       "iconText": "影",
       "category": "影视"
-    },
-    {
-      "id": "quark-tv",
-      "name": "夸克网盘",
-      "pkg": "",
-      "desc": "夸克网盘 TV 端，登录同步手机资源，支持 4K 极清播放",
-      "tvApkUrl": "",
-      "officialPage": "https://pan.quark.cn/",
-      "version": "",
-      "versionCode": 0,
-      "iconText": "夸",
-      "category": "网盘"
-    },
-    {
-      "id": "vidhub",
-      "name": "VidHub",
-      "pkg": "com.oumi.utility.media.hub",
-      "desc": "全能媒体播放器，支持网盘 / WebDAV / SMB / Emby / Jellyfin / Plex",
-      "tvApkUrl": "https://download.dacall.ai/tv/vidhub-TV-universal-release.apk",
-      "officialPage": "https://okaapps.com/product/1659622164",
-      "version": "3.0.4",
-      "versionCode": 327,
-      "iconText": "V",
-      "category": "播放"
     },
     {
       "id": "railux",
