@@ -1,6 +1,6 @@
 {
-  "versionCode": 104,
-  "versionName": "2.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.2.apk",
-  "notes": "2.1.2 修复：\n· 修复部分设备连接报错「OpenSSLRSAPrivateKey cannot be cast to RSAPrivateCrtKey」，改用标准 RSAPrivateKey 接口签名"
+  "versionCode": 105,
+  "versionName": "2.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.2.0.apk",
+  "notes": "2.2.0 新功能：\n· 机型档案从 5 款扩充到 27 款：小米/华为荣耀/创维酷开/海信VIDAA/东芝/TCL雷鸟/索尼/飞利浦/长虹/康佳/海尔/夏普/松下/乐视/微鲸/风行/PPTV/天猫魔盒/当贝/极米/坚果/峰米/腾讯极光/外贸盒子/原生AndroidTV/FireTV\n· 每款带「ADB 开启路径」，连上后直接告诉你怎么开调试\n· 新增不支持提示：三星 Tizen、LG webOS 非安卓，会明确告知\n· 可卸载组件建议条目 61 条"
 }
