@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "2.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.7.2.apk",
-  "notes": "2.7.2 修复大包分块推送：\n· 单块从 8MB 降到 2MB，避免 adb 流丢数据导致「大小不符」\n· 每块失败自动重试最多 3 次\n· 分块推送 49MB 安装包应该能走通"
+  "versionCode": 125,
+  "versionName": "2.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.8.1.apk",
+  "notes": "2.8.1 修复大包安装（关键）：\n· 分块文件名补零（part_000~part_024），解决 part_10 排在 part_2 前面导致合并后 APK 错乱\n· 修复 INSTALL_PARSE_FAILED_NOT_APK（合并出来的不是有效 APK）"
 }
