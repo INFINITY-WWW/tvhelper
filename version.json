@@ -1,6 +1,6 @@
 {
-  "versionCode": 117,
-  "versionName": "2.5.4",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.4.apk",
-  "notes": "2.5.4 优化：\n· 商店安装包下载后缓存复用，重试安装不再重复下载 49MB\n· 下载阶段按钮显示「下载中 X%」，不再像卡死\n· 下载用 .part 临时文件，中断不会污染缓存"
+  "versionCode": 118,
+  "versionName": "2.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.6.0.apk",
+  "notes": "2.6.0 更新：\n· 切后台回来自动检测并重连电视，不再需要手动重连\n· 文件管理上传显示真实进度\n· 商店安装包缓存复用 + 下载进度（2.5.4 已含）"
 }
