@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "2.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.4.apk",
-  "notes": "2.9.4 新增：\n· 有新版时首页「设置」格子显示「有新版本 ●」红点提示\n· 应用整理进度、部署下载提示、备份拉取提示（2.9.3 已含）"
+  "versionCode": 132,
+  "versionName": "2.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.5.apk",
+  "notes": "2.9.5 修复（根据你的反馈日志）：\n· 去掉重复的「推送进度 25%」日志（保留带 KB 的那条）\n· 去掉重复的「正在从官网下载…」日志\n· 8 秒内不重复发起连接，消除偶发的双连接"
 }
