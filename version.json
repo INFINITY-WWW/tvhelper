@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "2.8.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.8.2.apk",
-  "notes": "2.8.2 修复：\n· 彻底移除 onResume 的重复重连（日志不再出现两条「正在连接」）\n· 保留 2.8.1 的大包分块合并修复（影视仓已可安装）"
+  "versionCode": 128,
+  "versionName": "2.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.1.apk",
+  "notes": "2.9.1 新增：\n· 设置页「反馈问题 / 提交日志」：一键打包版本、手机信息、运行日志到下载目录并拉起分享\n· 下载完整性校验：残缺文件自动丢弃，不再复用坏缓存\n· 分块合并阶段有提示（合并 N 个分块）\n· 文件管理下载显示已接收 MB 数"
 }
