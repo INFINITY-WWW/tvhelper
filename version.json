@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "2.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.8.1.apk",
-  "notes": "2.8.1 修复大包安装（关键）：\n· 分块文件名补零（part_000~part_024），解决 part_10 排在 part_2 前面导致合并后 APK 错乱\n· 修复 INSTALL_PARSE_FAILED_NOT_APK（合并出来的不是有效 APK）"
+  "versionCode": 126,
+  "versionName": "2.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.8.2.apk",
+  "notes": "2.8.2 修复：\n· 彻底移除 onResume 的重复重连（日志不再出现两条「正在连接」）\n· 保留 2.8.1 的大包分块合并修复（影视仓已可安装）"
 }
