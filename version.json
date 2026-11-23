@@ -1,6 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "2.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.0.apk",
-  "notes": "2.5.0 新功能：\n· 每次打开应用，若有新版本会弹窗提示（立即更新 / 稍后）\n· 更新后不再提示\n· 下载时首页横幅显示实时进度条"
+  "versionCode": 114,
+  "versionName": "2.5.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.1.apk",
+  "notes": "2.5.1 修复：\n· 更新提示改为「每次冷启动提示一次」——应用还在后台、切回来不再弹窗\n· 只有被系统或手动杀掉后再打开才提示"
 }
