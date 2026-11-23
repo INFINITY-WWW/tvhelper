@@ -1,6 +1,6 @@
 {
-  "versionCode": 118,
-  "versionName": "2.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.6.0.apk",
-  "notes": "2.6.0 更新：\n· 切后台回来自动检测并重连电视，不再需要手动重连\n· 文件管理上传显示真实进度\n· 商店安装包缓存复用 + 下载进度（2.5.4 已含）"
+  "versionCode": 119,
+  "versionName": "2.6.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.6.1.apk",
+  "notes": "2.6.1 保活强化：\n· 心跳间隔 5 秒 → 3 秒，空闲也持续保活\n· 连接期间持有 CPU WakeLock，后台不被冻结\n· 掉线重连日志 30 秒内只打一次，不再刷屏"
 }
