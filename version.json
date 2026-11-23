@@ -1,6 +1,6 @@
 {
-  "versionCode": 122,
-  "versionName": "2.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.7.1.apk",
-  "notes": "2.7.1 诊断版：\n· 分块推送失败时打印真实异常原因（不再只显示「超时或中断」）\n· 每次分块推送前后复位 busy，避免后续操作被「忙」拒绝\n· 彻底移除 onResume 的重复重连"
+  "versionCode": 123,
+  "versionName": "2.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.7.2.apk",
+  "notes": "2.7.2 修复大包分块推送：\n· 单块从 8MB 降到 2MB，避免 adb 流丢数据导致「大小不符」\n· 每块失败自动重试最多 3 次\n· 分块推送 49MB 安装包应该能走通"
 }
