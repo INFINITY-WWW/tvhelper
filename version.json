@@ -1,6 +1,6 @@
 {
-  "versionCode": 115,
-  "versionName": "2.5.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.2.apk",
-  "notes": "2.5.2 修复大包安装：\n· 分块推送时只有第 1 块校验 APK 头，后续块不再被误判为「不是 APK」\n· 49MB 的影视仓可以正常分块推送并安装"
+  "versionCode": 116,
+  "versionName": "2.5.3",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.3.apk",
+  "notes": "2.5.3 修复：\n· 点「立即更新」后直接开始下载，不再弹第二个确认窗口\n· 首页进度条现在会正常显示百分比"
 }
