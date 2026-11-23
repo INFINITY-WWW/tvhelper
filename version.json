@@ -1,6 +1,6 @@
 {
-  "versionCode": 114,
-  "versionName": "2.5.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.1.apk",
-  "notes": "2.5.1 修复：\n· 更新提示改为「每次冷启动提示一次」——应用还在后台、切回来不再弹窗\n· 只有被系统或手动杀掉后再打开才提示"
+  "versionCode": 115,
+  "versionName": "2.5.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.2.apk",
+  "notes": "2.5.2 修复大包安装：\n· 分块推送时只有第 1 块校验 APK 头，后续块不再被误判为「不是 APK」\n· 49MB 的影视仓可以正常分块推送并安装"
 }
