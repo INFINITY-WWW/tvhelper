@@ -1,6 +1,6 @@
 {
-  "versionCode": 135,
-  "versionName": "2.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.11.0.apk",
-  "notes": "2.11.0 更新体验重做（对齐成熟应用）：\n· 更新下载在设置页/弹窗/横幅任何入口开始，首页都会显示实时进度条\n· 启动立即显示上次检测到的新版本（本地缓存，不再等网络）\n· 检查更新改为 GitHub API 优先，发现速度更快\n· 设置页「检查更新」与首页横幅走同一入口，状态一致\n· 应用商店按钮：先「下载中 X%」再「推送中 X%」，不再先显示传输中"
+  "versionCode": 136,
+  "versionName": "2.11.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.11.1.apk",
+  "notes": "2.11.1 修复应用名称错配：\n· 用电视端 APK 的真实 application-label 修正 17 个应用名称（影视仓、网易云音乐、云视听小电视、VidHub、应用管家、夸克网盘、土拨鼠浏览器、Super Live、小鸡看看、搜剧TV、Via 等）\n· 知识库未收录的包名不再编造中文名，直接显示包名，避免误导"
 }
