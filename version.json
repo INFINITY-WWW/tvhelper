@@ -1,6 +1,6 @@
 {
-  "versionCode": 109,
-  "versionName": "2.3.3",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.3.3.apk",
-  "notes": "2.3.3 修复：\n· 日志「本机 ADB 开启路径」前多余的点号\n· 大包跳过流式时文案不再写「流式传输中断」，改为说明超过直传上限"
+  "versionCode": 110,
+  "versionName": "2.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.0.apk",
+  "notes": "2.4.0 修复大包安装失败：\n· 改成分块推送（每 8MB 一块，单独开连接），绕过电视端 ADB 约 60 秒长连接超时\n· 推完在电视上合并再安装，49MB 的影视仓也能装\n· 超过 20MB 的包自动走这条路"
 }
