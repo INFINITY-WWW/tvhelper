@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "2.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.1.apk",
-  "notes": "2.9.1 新增：\n· 设置页「反馈问题 / 提交日志」：一键打包版本、手机信息、运行日志到下载目录并拉起分享\n· 下载完整性校验：残缺文件自动丢弃，不再复用坏缓存\n· 分块合并阶段有提示（合并 N 个分块）\n· 文件管理下载显示已接收 MB 数"
+  "versionCode": 129,
+  "versionName": "2.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.2.apk",
+  "notes": "2.9.2 进度补齐：\n· 部署桌面安装过程显示「推送进度 25%/50%/75%」\n· 恢复备份安装同样显示进度\n· 分块合并提示、文件下载 MB 进度（2.9.1 已含）"
 }
