@@ -1,6 +1,6 @@
 {
-  "versionCode": 121,
-  "versionName": "2.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.7.0.apk",
-  "notes": "2.7.0 连接体验（对齐同类做法：不追求永不断线，追求用户无感）：\n· 去掉 onResume 与心跳的两条重复重连路径，不再重复打印连接日志\n· 空闲掉线静默重连，后台断开不再刷屏\n· 心跳间隔 3 秒 → 10 秒，更省电"
+  "versionCode": 122,
+  "versionName": "2.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.7.1.apk",
+  "notes": "2.7.1 诊断版：\n· 分块推送失败时打印真实异常原因（不再只显示「超时或中断」）\n· 每次分块推送前后复位 busy，避免后续操作被「忙」拒绝\n· 彻底移除 onResume 的重复重连"
 }
