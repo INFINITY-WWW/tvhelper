@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "2.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.0.apk",
-  "notes": "2.1.0 新功能：\n· 应用商店下载自动走国内镜像（jsDelivr / ghproxy），GitHub 托管的大包速度快很多\n· 大包安装流式中断时自动改为「下载后推送」重试"
+  "versionCode": 103,
+  "versionName": "2.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.1.apk",
+  "notes": "2.1.1 修复：\n· 安装失败自动重试（最多 2 次，按钮显示「重试中(1/2)」）\n· 安装中返回上一级/切后台再回来，按钮仍显示「传输中 X%」，不再重置"
 }
