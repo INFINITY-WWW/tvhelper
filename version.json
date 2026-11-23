@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "2.0.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.0.1.apk",
-  "notes": "2.0.1 修复：\n· 应用商店安装大包时，流式传输被电视断开后自动改用「先下载到手机、再分块推送」重试"
+  "versionCode": 102,
+  "versionName": "2.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.0.apk",
+  "notes": "2.1.0 新功能：\n· 应用商店下载自动走国内镜像（jsDelivr / ghproxy），GitHub 托管的大包速度快很多\n· 大包安装流式中断时自动改为「下载后推送」重试"
 }
