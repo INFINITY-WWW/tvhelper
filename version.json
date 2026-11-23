@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "2.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.3.1.apk",
-  "notes": "2.3.1 修复：\n· 补上「本机 ADB 开启路径」提示（连上后日志会显示该品牌怎么开调试）\n· 保留更新横幅与下载进度条"
+  "versionCode": 108,
+  "versionName": "2.3.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.3.2.apk",
+  "notes": "2.3.2 优化：\n· 超过 20MB 的安装包直接走「下载到手机再分块推送」，不再尝试必然失败的流式传输\n· 规避电视端 ADB 约 60 秒长连接超时，影视仓等大包成功率提升"
 }
