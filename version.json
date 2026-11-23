@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "2.11.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.11.1.apk",
-  "notes": "2.11.1 修复应用名称错配：\n· 用电视端 APK 的真实 application-label 修正 17 个应用名称（影视仓、网易云音乐、云视听小电视、VidHub、应用管家、夸克网盘、土拨鼠浏览器、Super Live、小鸡看看、搜剧TV、Via 等）\n· 知识库未收录的包名不再编造中文名，直接显示包名，避免误导"
+  "versionCode": 137,
+  "versionName": "2.12.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.0.apk",
+  "notes": "2.12.0 新增自动识别应用名称：\n· 内置 APK 标签解析器（解析 AndroidManifest + resources.arsc），不依赖 aapt\n· 知识库没有的应用，自动从电视拉 APK 读出真实名称并本地缓存（最多一次 12 个）\n· 已实测通过：Aerial / Halo TV / 小鸡看看 / 千寻 / Via / 本应用"
 }
