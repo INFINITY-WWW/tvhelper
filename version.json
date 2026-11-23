@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "2.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.1.apk",
-  "notes": "2.1.1 修复：\n· 安装失败自动重试（最多 2 次，按钮显示「重试中(1/2)」）\n· 安装中返回上一级/切后台再回来，按钮仍显示「传输中 X%」，不再重置"
+  "versionCode": 104,
+  "versionName": "2.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.1.2.apk",
+  "notes": "2.1.2 修复：\n· 修复部分设备连接报错「OpenSSLRSAPrivateKey cannot be cast to RSAPrivateCrtKey」，改用标准 RSAPrivateKey 接口签名"
 }
