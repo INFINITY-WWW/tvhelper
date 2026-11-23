@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "2.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.0.apk",
-  "notes": "2.4.0 修复大包安装失败：\n· 改成分块推送（每 8MB 一块，单独开连接），绕过电视端 ADB 约 60 秒长连接超时\n· 推完在电视上合并再安装，49MB 的影视仓也能装\n· 超过 20MB 的包自动走这条路"
+  "versionCode": 111,
+  "versionName": "2.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.1.apk",
+  "notes": "2.4.1 优化：\n· 直传上限改为动态计算（上次实测速度 × 45 秒），电视越快能直传的包越大\n· 超过动态上限才走分块推送"
 }
