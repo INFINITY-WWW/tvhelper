@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "2.4.1",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.1.apk",
-  "notes": "2.4.1 优化：\n· 直传上限改为动态计算（上次实测速度 × 45 秒），电视越快能直传的包越大\n· 超过动态上限才走分块推送"
+  "versionCode": 112,
+  "versionName": "2.4.2",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.2.apk",
+  "notes": "2.4.2 修复：\n· 应用商店安装中返回首页再进来，按钮不再变回「安装」，正确显示「传输中 X%」"
 }
