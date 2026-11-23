@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "2.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.10.0.apk",
-  "notes": "2.10.0 方案C（桌面安装包多源）：\n· Aerial 三个版本已镜像到本仓库，下载优先走自有源（自动走 jsDelivr 镜像）\n· 自有源不可用时自动回退官方网站\n· 下载完成后本地缓存，下次部署无需联网（缓存带 ZIP 校验）"
+  "versionCode": 134,
+  "versionName": "2.10.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.10.1.apk",
+  "notes": "2.10.1 方案C 完整版：\n· Halo TV 三个版本也已镜像到本仓库\n· 桌面安装包下载顺序：本地缓存 → 自有仓库(jsDelivr 镜像) → 官方网站\n· Aerial / Halo 全部支持多源 + 离线缓存"
 }
