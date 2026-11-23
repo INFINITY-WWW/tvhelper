@@ -1,6 +1,6 @@
 {
-  "versionCode": 116,
-  "versionName": "2.5.3",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.3.apk",
-  "notes": "2.5.3 修复：\n· 点「立即更新」后直接开始下载，不再弹第二个确认窗口\n· 首页进度条现在会正常显示百分比"
+  "versionCode": 117,
+  "versionName": "2.5.4",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.4.apk",
+  "notes": "2.5.4 优化：\n· 商店安装包下载后缓存复用，重试安装不再重复下载 49MB\n· 下载阶段按钮显示「下载中 X%」，不再像卡死\n· 下载用 .part 临时文件，中断不会污染缓存"
 }
