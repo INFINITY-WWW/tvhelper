@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "2.4.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.4.2.apk",
-  "notes": "2.4.2 修复：\n· 应用商店安装中返回首页再进来，按钮不再变回「安装」，正确显示「传输中 X%」"
+  "versionCode": 113,
+  "versionName": "2.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.5.0.apk",
+  "notes": "2.5.0 新功能：\n· 每次打开应用，若有新版本会弹窗提示（立即更新 / 稍后）\n· 更新后不再提示\n· 下载时首页横幅显示实时进度条"
 }
