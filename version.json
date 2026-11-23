@@ -1,6 +1,6 @@
 {
-  "versionCode": 130,
-  "versionName": "2.9.3",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.3.apk",
-  "notes": "2.9.3 进度补齐：\n· 应用列表整理时显示「整理进度 N%（N/M）」\n· 部署桌面显示「正在从官网下载 Aerial xxx…」\n· 卸载前备份显示「正在从电视拉取安装包…」"
+  "versionCode": 131,
+  "versionName": "2.9.4",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.9.4.apk",
+  "notes": "2.9.4 新增：\n· 有新版时首页「设置」格子显示「有新版本 ●」红点提示\n· 应用整理进度、部署下载提示、备份拉取提示（2.9.3 已含）"
 }
