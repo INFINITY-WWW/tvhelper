@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "2.12.0",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.0.apk",
-  "notes": "2.12.0 新增自动识别应用名称：\n· 内置 APK 标签解析器（解析 AndroidManifest + resources.arsc），不依赖 aapt\n· 知识库没有的应用，自动从电视拉 APK 读出真实名称并本地缓存（最多一次 12 个）\n· 已实测通过：Aerial / Halo TV / 小鸡看看 / 千寻 / Via / 本应用"
+  "versionCode": 138,
+  "versionName": "2.12.1",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.1.apk",
+  "notes": "2.12.1 修复无线配对：\n· 修复「SunX509 KeyManagerFactory not available」——Android 没有 SunX509，改为按 PKIX / X509 / SunX509 依次回退\n· TLS 上下文增加回退（TLSv1.3 不可用时降级到 TLS）"
 }
