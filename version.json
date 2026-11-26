@@ -1,6 +1,6 @@
-﻿{
+{
   "versionCode": 144,
   "versionName": "2.12.7",
   "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.7.apk",
-  "notes": "2.12.7 完善快捷入口：\n· MainActivity 改为 singleTop，App 已在前台时发深链也能立即跳页\n· 支持连续切换页面不重启进程（实测 部署→商店→部署 均正常）\n· 配合 --activity-clear-top 使用效果最佳"
+  "notes": "2.12.7 完善快捷入口：App 已在前台时发深链也能立即跳页（singleTop），支持连续切换页面"
 }
