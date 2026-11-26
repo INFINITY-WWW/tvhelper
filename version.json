@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 143,
-  "versionName": "2.12.6",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.6.apk",
-  "notes": "2.12.6 新增快捷入口（主要给联调/自动化用）：\n· 支持 adb 一条命令直达任意页面，不用模拟点击\n  am start -n com.qwen.tvtools/.MainActivity --es ip 192.168.31.86 --es goto launcher\n· goto 可选：launcher/manage/store/remote/deviceinfo/files/settings/channel 等\n· 连接失败自动重试 3 次"
+  "versionCode": 144,
+  "versionName": "2.12.7",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.7.apk",
+  "notes": "2.12.7 完善快捷入口：\n· MainActivity 改为 singleTop，App 已在前台时发深链也能立即跳页\n· 支持连续切换页面不重启进程（实测 部署→商店→部署 均正常）\n· 配合 --activity-clear-top 使用效果最佳"
 }
