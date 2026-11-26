@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 139,
-  "versionName": "2.12.2",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.2.apk",
-  "notes": "2.12.2 修复「可升级版本不提示升级」：\n· 新增远端版本清单 versions.json，最新版不再写死在代码里\n· 部署桌面：按真实版本判断 安装/升级/已安装，副标题显示实际最新版本\n· 应用商店：改用版本名+版本号双重比较（版本号不递增的应用也能判出升级）\n· 下载防降级：缓存或镜像给的包比目标旧时自动重下/换源\n· 修复 Guard 与完整版共用包名时的误判"
+  "versionCode": 140,
+  "versionName": "2.12.3",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.3.apk",
+  "notes": "2.12.3 修复「同一桌面显示安装了两个版本」：\n· 识别电视上实装的是完整版还是 Guard（两者共用包名，只能装一个）\n· 实装那一行显示「已安装」，另一行显示「切换」并提示会替换\n· Lite 是独立包名，仍可单独安装"
 }
