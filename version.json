@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 142,
-  "versionName": "2.12.5",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.5.apk",
-  "notes": "2.12.5 部署页改成直接给结论：\n· 「适配结论」改为「该装哪个」——按机型和已装情况给一句话建议\n· 例：小米电视未装 → 「建议装 Halo TV Guard —— 这台机器会把第三方桌面拉回原厂」\n· 例：已装 → 「已装 Halo TV 完整版 3.6，已是最新，不用动」\n· 推荐那一行副标题标「推荐装这个」或「当前在用」\n· Android 4.x 自动推荐 Lite 版"
+  "versionCode": 143,
+  "versionName": "2.12.6",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.6.apk",
+  "notes": "2.12.6 新增快捷入口（主要给联调/自动化用）：\n· 支持 adb 一条命令直达任意页面，不用模拟点击\n  am start -n com.qwen.tvtools/.MainActivity --es ip 192.168.31.86 --es goto launcher\n· goto 可选：launcher/manage/store/remote/deviceinfo/files/settings/channel 等\n· 连接失败自动重试 3 次"
 }
