@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 140,
-  "versionName": "2.12.3",
-  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.3.apk",
-  "notes": "2.12.3 修复「同一桌面显示安装了两个版本」：\n· 识别电视上实装的是完整版还是 Guard（两者共用包名，只能装一个）\n· 实装那一行显示「已安装」，另一行显示「切换」并提示会替换\n· Lite 是独立包名，仍可单独安装"
+  "versionCode": 142,
+  "versionName": "2.12.5",
+  "apkUrl": "https://raw.githubusercontent.com/INFINITY-WWW/tvhelper/main/app-2.12.5.apk",
+  "notes": "2.12.5 部署页改成直接给结论：\n· 「适配结论」改为「该装哪个」——按机型和已装情况给一句话建议\n· 例：小米电视未装 → 「建议装 Halo TV Guard —— 这台机器会把第三方桌面拉回原厂」\n· 例：已装 → 「已装 Halo TV 完整版 3.6，已是最新，不用动」\n· 推荐那一行副标题标「推荐装这个」或「当前在用」\n· Android 4.x 自动推荐 Lite 版"
 }
